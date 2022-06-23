@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p -m=00751 "my_dir"
