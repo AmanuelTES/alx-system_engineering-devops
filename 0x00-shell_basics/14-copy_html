@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /./*.html /temp
+cp -nu*.html ..
