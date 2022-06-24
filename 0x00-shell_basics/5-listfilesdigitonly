@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -l
-ls -l chap1.profile
-ls -d -l
+ls -la chap1 .profile
