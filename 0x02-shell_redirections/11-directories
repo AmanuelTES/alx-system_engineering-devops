@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR . | egrape -c '^-'
+find -type f | wc -l
