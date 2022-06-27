@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '&s => %s\n' "${(kv@)userdirs}"
+cut -d ':' -f 1,6 /etc/passwd |sort
